@@ -128,3 +128,8 @@ python generate_figures.py
 
 For data access or methodological questions, please contact the
 corresponding author at: [w.saadsaoud@lagh-univ.dz; d.bencheikh@lagh-univ.dz]
+
+
+## License
+
+MIT License. See LICENSE file for details.
