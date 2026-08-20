@@ -1,0 +1,18 @@
+name: ouargla_urban_growth
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy>=1.24
+  - scipy>=1.10
+  - matplotlib>=3.7
+  - rasterio>=1.3
+  - geopandas>=0.13
+  - pandas>=2.0
+  - scikit-learn>=1.2
+  - seaborn>=0.12
+  - fiona>=1.9
+  - pyproj>=3.5
+  - shapely>=2.0
+  - pip
