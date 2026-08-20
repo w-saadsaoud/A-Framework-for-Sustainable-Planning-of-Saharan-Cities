@@ -54,7 +54,7 @@ warnings.filterwarnings('ignore')
 # CONFIGURATION - edit these paths before running
 # =============================================================================
 
-BASE_DIR = r"D:\Ouargla_CA_Project_fin_wahid"   # <-- adapt to your machine
+BASE_DIR = r"Your-Path-folder"   # <-- adapt to your machine
 
 RASTER_DIR  = os.path.join(BASE_DIR, "01_DONNEES", "Rasters")
 SHP_DIR     = os.path.join(BASE_DIR, "01_DONNEES", "Shapefiles")
