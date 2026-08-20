@@ -1,4 +1,4 @@
-# CA-Markov Urban Growth Model with CODESZone Regulatory Constraints
+# CA-Markov Urban Growth Model with CODES Zone Regulatory Constraints
 ### Ouargla, Algeria | Peer Review Package
 
 ---
