@@ -1,3 +1,11 @@
+"""
+Requirements
+==============================
+Author  : [Wahid Saadsaoud;Darda Bencheikh]
+"""
+
+
+
 name: ouargla_urban_growth
 channels:
   - conda-forge
