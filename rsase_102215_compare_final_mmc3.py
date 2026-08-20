@@ -3,6 +3,7 @@ compare_std_vs_rccam_final.py
 ==============================
 Correction : expansion favorable = CODES_ZONE NaN
 On utilise class_zone == 'expansion favorable' pour le masque eligible.
+Author  : [Wahid Saadsaoud;Darda Bencheikh]
 """
 
 import os, json, csv
