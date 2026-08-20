@@ -127,7 +127,7 @@ python generate_figures.py
 ## Contact
 
 For data access or methodological questions, please contact the
-corresponding author at: [author email]
+corresponding author at: [w.saadsaoud@lagh-univ.dz;d.bencheikh@lagh-univ.dz]
 
 ---
 
