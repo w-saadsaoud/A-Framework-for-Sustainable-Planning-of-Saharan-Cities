@@ -49,7 +49,7 @@ References
     Pontius & Schneider (2001) Land-cover change model validation.
     Fawcett (2006) An introduction to ROC analysis.
 
-Author  : [Author name(s)]
+Author  : [Wahid Saadsaoud;Darda Bencheikh]
 Version : 1.0
 License : MIT
 """
