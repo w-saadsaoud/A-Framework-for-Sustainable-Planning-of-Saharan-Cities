@@ -30,7 +30,7 @@ Outputs (written to RESULTS_DIR) :
     simulation_metrics.json       - Surface statistics 2025 vs 2045
     urban_growth_map.png          - Publication-quality figure
 
-Author  : [Wahid saadsaoud]
+Author  : [Wahid Saadsaoud;Darda Bencheikh]
 Version : 1.0
 License : MIT
 """
