@@ -17,7 +17,7 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
-BASE     = r"D:\Ouargla_CA_Project_fin_wahid"
+BASE     = r"Chemain données"
 RASTERS  = {
     1990: os.path.join(BASE, "01_DONNEES", "Rasters", "Urban_1990.tif"),
     2010: os.path.join(BASE, "01_DONNEES", "Rasters", "Urban_2010.tif"),
